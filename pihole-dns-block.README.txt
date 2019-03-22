@@ -1,0 +1,11 @@
+<p align="center">
+<pre>
+
+The file - "pihole-dns-block.txt" - is used for DNS blocking on my pihole server.
+You can insert FQDN into the file and pihole will block the site, by sinkholing the DNS request to 0.0.0.0.
+
+Pihole can be downloaded from.
+<a href="https://pi-hole.net">https://pi-hole.net/</a>
+
+</pre>
+</p>
