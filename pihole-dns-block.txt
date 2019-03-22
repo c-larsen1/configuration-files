@@ -1,1 +1,15 @@
-kelspdjfvkdvn.com
+##PIHOLE Blacklist.
+#This file is update with FQDN hosts.
+
+##Ad Blocking section.
+#These are blocked advertisement sites.
+
+googleads.g.doubleclick.net
+
+##Porn Blocking section.
+#These are blocked porn sites.
+
+101hotguys.com
+
+##Malware Blocking section
+#These are blocked malware sites (That contains: Virus, Trojans, Spyware, Worms, Ransomware, Adware and Botnets).
